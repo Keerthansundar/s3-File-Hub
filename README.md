@@ -38,5 +38,3 @@ A Full Stack File Upload and Sharing Platform built with Spring Boot and ReactJS
 
 ---
 
-## 📂 Project Structure
-
